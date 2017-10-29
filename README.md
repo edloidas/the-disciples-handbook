@@ -1,6 +1,6 @@
-<h1 align="center">Git: The Disciples Handbook</h1>
+<h1 align="center">Git: The Disciple’s Handbook</h1>
 
-![Git: The Disciples Handbook](https://i.imgur.com/7pIVNeD.png)
+![Git: The Disciple’s Handbook](https://i.imgur.com/7pIVNeD.png)
 
 > The book is not yet finished.
 
@@ -22,9 +22,9 @@
 
 ## License & Copyright ##
 
-Git: The Disciples Handbook © [Mikita Taukachou](https://edloidas.com)
+Git: The Disciple’s Handbook © [Mikita Taukachou](https://edloidas.com)
 
-_“Git: The Disciples Handbook”_ is licensed under a
+_“Git: The Disciple’s Handbook”_ is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE).
 
 ![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)
